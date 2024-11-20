@@ -25,3 +25,6 @@ The code was written in a Jupyter Notebook on Google Colab and uses the followin
 - jupyter_dash for running Dash within Jupyter
 - pandasql for SQL-like querying of pandas DataFrames
 - 'kaggle.json', your personal API token downloaded from kaggle for authentication
+
+![Dashboard](assets/dashboard.png)
+

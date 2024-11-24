@@ -17,14 +17,17 @@ To automatically download the zip file of the dataset, you will need:
 
 The code was written in a Jupyter Notebook on Google Colab and uses the following libraries:
 
-- pandas for data manipulation
-- dash for creating the interactive dashboard
-- plotly.express for data visualization
-- matplotlib and seaborn for additional visualizations
-- plotly.graph_objects and plotly.subplots for creating advanced plots
-- jupyter_dash for running Dash within Jupyter
-- pandasql for SQL-like querying of pandas DataFrames
-- 'kaggle.json', your personal API token downloaded from kaggle for authentication
+- pandas 
+- dash 
+- plotly.express 
+- matplotlib
+- seaborn 
+- plotly.graph_objects
+- plotly.subplots 
+- jupyter_dash 
+- pandasql
+
+## Dashboard
 
 ![Dashboard](assets/dashboard.png)
 
